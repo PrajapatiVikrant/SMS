@@ -2,11 +2,11 @@
 
 To start this backend project run following command in your terminal
 
-- git clone repository link
+- git clone https://github.com/PrajapatiVikrant/SMS.git
 - cd SMS
 - npm i
 - npm run dev
-  server will start
+  
 
 
 # API ENDPOINT
